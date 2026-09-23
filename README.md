@@ -36,7 +36,7 @@ Proyek ini menerapkan PCA dan Factor Analysis untuk mereduksi 19 variabel perila
 2. **Faktor 2:** Persepsi risiko & norma lingkungan (X8-X11)
 3. **Faktor 3:** Motivasi internal & kebersihan diri (X3, X4, X12)
 
-## 📎 File Terkait
+## File Terkait
 - RPubs (Hasil Lengkap)<br>(https://rpubs.com/zhrraidaaa/Modul1PCA)
 - Dataset: Cervical Cancer Behavior Risk (UCI)<br>(https://archive.ics.uci.edu/dataset/537/cervical+cancer+behavior+risk)
 
